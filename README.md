@@ -1,14 +1,15 @@
 
 ---
 
-# Melon Library
+# Melon Library v1.5.1
 
 **Melon Library** provides simple tools for creating terminal-based games.  
-Currently, it includes 5 tools.
+Currently, it includes 5 function.
+Give me ideas for new function please
 
 ---
 
-## Features
+## Functions
 
 ### 1. Print a Beautiful Line  
 No more manually using `=` or `-` symbols!  
